@@ -3,4 +3,5 @@
 
 BANK ATM contains compiled project solutions 1 and 2 
 
-src foldder contains only JAVA CLASS
+src foldder contains only JAVA files 
+
